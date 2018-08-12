@@ -7,3 +7,6 @@ A simple electrostatic discharge shader
 It doesn't work well without some good old post-processing
 
 > ![](https://raw.githubusercontent.com/CiaccoDavide/Unity-Shaders/master/Lightning/Preview/lightning_01.gif)
+
+
+> ![](https://raw.githubusercontent.com/CiaccoDavide/Unity-Shaders/master/Lightning/Preview/lightning_02.gif)
